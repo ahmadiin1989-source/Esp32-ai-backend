@@ -1,0 +1,5 @@
+flask
+gtts
+requests
+speechrecognition
+gunicorn
